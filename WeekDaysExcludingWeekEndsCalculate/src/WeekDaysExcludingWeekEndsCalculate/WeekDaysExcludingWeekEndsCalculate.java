@@ -2,8 +2,7 @@ package WeekDaysExcludingWeekEndsCalculate;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
-import java.util.Arrays;
-import java.util.List;
+ 
 
 public class WeekDaysExcludingWeekEndsCalculate {
 
