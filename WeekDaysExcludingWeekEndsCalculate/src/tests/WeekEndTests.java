@@ -7,12 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 public class WeekEndTests {
-
-
-
-   public class shouldDisplayDaysAddedSkippingWeekEnds {
-
-
+ 
         @Test
         public void shouldDisplayDaysExcludingWeekEndsSaturday() {
 // Saturday - should joump to monday and count offset
